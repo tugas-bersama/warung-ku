@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">UTS KSI</string>
+    <string name="nama_app">WARUNG KELONTONG MURAH</string>
+    <string name="cari_harga">Cari Barang</string>
+    <string name="tambah_barang">Tambah Barang</string>
+    <string name="edit_stok">Stok Barang :</string>
+    <string name="exit">Keluar</string>
+    <string name="text_cari">Masukan nama barang</string>
+    <string name="text_daftar">DAFTAR BARANG DAN HARGA</string>
+    <string name="menu_utama">Menu utama</string>
+    <string name="inputtag1">Nama barang</string>
+    <string name="inputText1">Nama barang :</string>
+    <string name="inputtag2">Harga barang :</string>
+    <string name="inputText2">Harga barang</string>
+    <string name="inputText3">Jumlah stok barang</string>
+    <string name="textButtonInput">Input barang</string>
+    <string name="inputtag4">Harga barang</string>
+    <string name="hargalama">Harga barang</string>
+    <string name="masukan_stok_baru">Stok barang</string>
+    <string name="stok_lama">stok lama</string>
+    <string name="harga_lama">harga lama</string>
+    <string name="perbaharui_data">Perbaharui data</string>
+
+    <string name="title_activity_view_data">Daftar Barang</string>
+    <string name="dummy_button">Menu Utama</string>
+    <string name="dummy_content">DATA BARANG</string>
+    <string name="buttondata">Lihat Data</string>
+    <string name="title_view">Data Barang</string>
+    <string name="tombol_dialog_edit">Edit</string>
+    <string name="tombol_dialog_delete">Hapus</string>
+    <string name="textview">TextView</string>
+
+</resources>
